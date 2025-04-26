@@ -2,32 +2,8 @@
   {
     "category": "Events",
     "events": [
-      {
-        "name": "2025 Austrian Darts Open Day Two",
-        "URL": "darts",
-        "logo": "https://www.pdc-europe.tv/wp-content/uploads/2024/10/Graz_2025_square-1-1400x1400.jpg",
-        "isevent": true,
-        "time": "04/26/2025 7:00",
-        "streams": [
-          {
-            "name": "Main",
-            "URL": "https://embed.timstreams.site/embed/bf624c35e2e70da7d4a8574858193d38"
-          }
-        ]
-      },
-      {
-        "name": "Chris Eubank Jr. vs. Conor Benn",
-        "URL": "boxppv",
-        "logo": "https://www.nationalworld.com/jpim-static/image/2025/04/22/10/54/Chris-Eubank-Jr-vs-Conor-Benn.png?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75",
-        "isevent": true,
-        "time": "04/26/2025 12:00",
-        "streams": [
-          {
-            "name": "Main",
-            "URL": "https://embed.timstreams.site/embed/013803bf53fe225cb3eaef77bd95c2b2"
-          }
-        ]
-      },
+    
+      
       {
         "name": "NASCAR Weekly Racing at South Boston",
         "URL": "flo-1",
@@ -54,32 +30,7 @@
           }
         ]
       },
-      {
-        "name": "Copa Del Ray Final: FC Barcelona vs. Real Madrid",
-        "URL": "copa-del-ray",
-        "logo": "https://www.fcbarcelona.com/fcbarcelona/photo/2025/01/10/e8650b2d-2225-41eb-86a0-5b9d5a823f87/TIMEZONES_ESCUTS-rm.jpg",
-        "isevent": true,
-        "time": "04/26/2025 16:00",
-        "streams": [
-          {
-            "name": "Main",
-            "URL": "https://embed.timstreams.site/embed/c0af08c775d0d0438c5c9c0175659cab"
-          }
-        ]
-      },
-      {
-        "name": "NHL: Vegas Golden Knights vs. Minnesota Wild",
-        "URL": "nhl",
-        "logo": "https://www.fubo.tv/news/wp-content/uploads/2025/04/How_to_Stream_Vegas_Golden_Knights_at_Minnesota_Wild_Live_TV_Channel_April_26_2025.png",
-        "isevent": true,
-        "time": "04/26/2025 16:00",
-        "streams": [
-          {
-            "name": "Main",
-            "URL": "https://embed.timstreams.site/embed/902f1bd9e0a3de649bc96675c6ffd654"
-          }
-        ]
-      },
+     
       {
                 "name": "CARS Tour at Orange County Speedway",
                 "URL": "flo-3",
