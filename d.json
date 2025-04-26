@@ -2,7 +2,19 @@
   {
     "category": "Events",
     "events": [
-     
+      {
+        "name": "2025 Austrian Darts Open Day Two",
+        "URL": "darts",
+        "logo": "https://www.pdc-europe.tv/wp-content/uploads/2024/10/Graz_2025_square-1-1400x1400.jpg",
+        "isevent": true,
+        "time": "04/26/2025 7:00",
+        "streams": [
+          {
+            "name": "Main",
+            "URL": "https://embed.timstreams.site/embed/bf624c35e2e70da7d4a8574858193d38"
+          }
+        ]
+      },
       {
         "name": "Chris Eubank Jr. vs. Conor Benn",
         "URL": "boxppv",
