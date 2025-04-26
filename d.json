@@ -71,6 +71,45 @@
                 ]
             },
       {
+                "name": "Volusia Speedway Park",
+                "URL": "dv-1",
+                "logo": "https://dirtvision.asset.viewlift.com/images/2025/01/08/4-26-25-Volusia-1736353989853.png?impolicy=resize&w=1920&h=1080",
+                "isevent": true,
+                "time": "04/26/2025 18:00",
+                "streams": [
+                    {
+                        "name": "Main",
+                        "URL": "https://embed.timstreams.site/embed/347fef6bab2aa363434fd274fedbff42"
+                    }
+                ]
+            },
+      {
+                "name": "Talladega Short Track",
+                "URL": "dv-2",
+                "logo": "https://dirtvision.asset.viewlift.com/images/2025/04/15/4-26-25_LM-1744730872327.png?impolicy=resize&w=1920&h=1080",
+                "isevent": true,
+                "time": "04/26/2025 19:15",
+                "streams": [
+                    {
+                        "name": "Main",
+                        "URL": "https://embed.timstreams.site/embed/1140021ae35f830c34195abe9b09b6ab"
+                    }
+                ]
+            },
+ {
+                "name": "Tri-State Speedway",
+                "URL": "dv-3",
+                "logo": "https://dirtvision.asset.viewlift.com/images/2024/11/26/4-26-25-SC-1732644563941.png?impolicy=resize&w=1920&h=1080",
+                "isevent": true,
+                "time": "04/26/2025 19:15",
+                "streams": [
+                    {
+                        "name": "Main",
+                        "URL": "https://embed.timstreams.site/embed/6c855b3985d8f406ecb659a323719c5e"
+                    }
+                ]
+            },
+      {
                 "name": "Knoxville Raceway",
                 "URL": "dv-ppv",
                 "logo": "https://dirtvision.asset.viewlift.com/images/2024/10/25/4-26-25-Knox-1729876737691.png?impolicy=resize&w=1920&h=1080",
