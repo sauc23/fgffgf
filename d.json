@@ -79,7 +79,33 @@
             "URL": "https://embed.timstreams.site/embed/902f1bd9e0a3de649bc96675c6ffd654"
           }
         ]
-      }
+      },
+      {
+                "name": "CARS Tour at Orange County Speedway",
+                "URL": "flo-3",
+                "logo": "https://d2779tscntxxsw.cloudfront.net/67b4b93ebdc5e.png?width=1920",
+                "isevent": true,
+                "time": "04/26/2025 16:30",
+                "streams": [
+                    {
+                        "name": "Main",
+                        "URL": "https://embed.timstreams.site/embed/8fd9fabad9a6198e7677730bb376360e"
+                    }
+                ]
+            },
+      {
+                "name": "Knoxville Raceway",
+                "URL": "dv-ppv",
+                "logo": "https://dirtvision.asset.viewlift.com/images/2024/10/25/4-26-25-Knox-1729876737691.png?impolicy=resize&w=1920&h=1080",
+                "isevent": true,
+                "time": "04/26/2025 19:30",
+                "streams": [
+                    {
+                        "name": "Main",
+                        "URL": "https://embed.timstreams.site/embed/f079aa70a4a29d90b7a1daaa4d744151"
+                    }
+                ]
+            }
     ]
   },
   {
