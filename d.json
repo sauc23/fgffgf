@@ -106,7 +106,19 @@
                     }
                 ]
             },
-
+{
+                "name": "USAC Kokomo Grand Prix at Kokomo Speedway",
+                "URL": "flo-4",
+                "logo": "https://d2779tscntxxsw.cloudfront.net/67c0e4d98e857.png?width=1920",
+                "isevent": true,
+                "time": "04/26/2025 18:00",
+                "streams": [
+                    {
+                        "name": "Main",
+                        "URL": "https://embed.timstreams.site/embed/a887c52cef2d4fda77ea2f149d00eee2"
+                    }
+                ]
+            },
       {
                 "name": "Knoxville Raceway",
                 "URL": "dv-ppv",
