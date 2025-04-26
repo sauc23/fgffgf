@@ -82,6 +82,20 @@
                 ]
             },
       {
+                "name": "UFC Fight Night: Machado Garry vs. Prates",
+                "URL": "ufc",
+                "logo": "https://i.imgur.com/xp1zqVu.jpeg",
+                "isevent": true,
+                "time": "04/26/2025 18:00",
+                "streams": [
+                    {
+                        "name": "Main",
+                        "URL": "https://embed.timstreams.site/embed/27a07d63b4cd88a382bad2e9ebf91c03"
+                    }
+                ]
+            },
+
+      {
                 "name": "Knoxville Raceway",
                 "URL": "dv-ppv",
                 "logo": "https://dirtvision.asset.viewlift.com/images/2024/10/25/4-26-25-Knox-1729876737691.png?impolicy=resize&w=1920&h=1080",
