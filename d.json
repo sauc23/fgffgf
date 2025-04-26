@@ -1,0 +1,759 @@
+[
+  {
+    "category": "Events",
+    "events": [
+      {
+        "name": "2025 Austrian Darts Open Day Two",
+        "URL": "darts",
+        "logo": "https://www.pdc-europe.tv/wp-content/uploads/2024/10/Graz_2025_square-1-1400x1400.jpg",
+        "isevent": true,
+        "time": "04/26/2025 7:00",
+        "streams": [
+          {
+            "name": "Main",
+            "URL": "https://embed.timstreams.site/embed/bf624c35e2e70da7d4a8574858193d38"
+          }
+        ]
+      },
+      {
+        "name": "Chris Eubank Jr. vs. Conor Benn",
+        "URL": "boxppv",
+        "logo": "https://www.nationalworld.com/jpim-static/image/2025/04/22/10/54/Chris-Eubank-Jr-vs-Conor-Benn.png?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75",
+        "isevent": true,
+        "time": "04/26/2025 12:00",
+        "streams": [
+          {
+            "name": "Main",
+            "URL": "https://embed.timstreams.site/embed/013803bf53fe225cb3eaef77bd95c2b2"
+          }
+        ]
+      },
+      {
+        "name": "NASCAR Weekly Racing at South Boston",
+        "URL": "flo-1",
+        "logo": "https://d2779tscntxxsw.cloudfront.net/661d73aeaa815.png?width=1920",
+        "isevent": true,
+        "time": "04/26/2025 13:30",
+        "streams": [
+          {
+            "name": "Main",
+            "URL": "https://embed.timstreams.site/embed/88faf25e4e537b0d239f2d784b141136"
+          }
+        ]
+      },
+      {
+        "name": "NASCAR Season Opener at Berlin Raceway",
+        "URL": "flo-2",
+        "logo": "https://d2779tscntxxsw.cloudfront.net/661d742f92834.png?width=1920",
+        "isevent": true,
+        "time": "04/26/2025 15:30",
+        "streams": [
+          {
+            "name": "Main",
+            "URL": "https://embed.timstreams.site/embed/f6b61b8aa50dcd0d006f71606603a886"
+          }
+        ]
+      },
+      {
+        "name": "Copa Del Ray Final: FC Barcelona vs. Real Madrid",
+        "URL": "copa-del-ray",
+        "logo": "https://www.fcbarcelona.com/fcbarcelona/photo/2025/01/10/e8650b2d-2225-41eb-86a0-5b9d5a823f87/TIMEZONES_ESCUTS-rm.jpg",
+        "isevent": true,
+        "time": "04/26/2025 16:00",
+        "streams": [
+          {
+            "name": "Main",
+            "URL": "https://embed.timstreams.site/embed/c0af08c775d0d0438c5c9c0175659cab"
+          }
+        ]
+      },
+      {
+        "name": "NHL: Vegas Golden Knights vs. Minnesota Wild",
+        "URL": "nhl",
+        "logo": "https://www.fubo.tv/news/wp-content/uploads/2025/04/How_to_Stream_Vegas_Golden_Knights_at_Minnesota_Wild_Live_TV_Channel_April_26_2025.png",
+        "isevent": true,
+        "time": "04/26/2025 16:00",
+        "streams": [
+          {
+            "name": "Main",
+            "URL": "https://embed.timstreams.site/embed/902f1bd9e0a3de649bc96675c6ffd654"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Replays",
+    "events": [
+      {
+        "name": "UFC 313: Pereira vs Ankalaev",
+        "URL": "ufc-313",
+        "logo": "https://www.ufc.com/images/styles/background_image_sm/s3/image/2025-02/030825-ufc-313-pereira-vs-ankalaev-EVENT-ART.jpg?h=d1cb525d&itok=aKbkw8gm",
+        "time": "03/08/2025",
+        "streams": [
+          {
+            "name": "1",
+            "URL": "https://timstreams.upn.one/#3v6aia"
+          }
+        ]
+      },
+      {
+        "name": "AEW Dynasty 2025",
+        "URL": "aew-dynasty-2025",
+        "logo": "https://www.trillertv.com/thumbs/vf/2pgs6/aew_dynasty2025_2_1920x1080/aew-dynasty-2025-1600x900fit.webp",
+        "time": "04/06/2025",
+        "streams": [
+          {
+            "name": "1",
+            "URL": "https://timstreams.upn.one/#hlc93j"
+          }
+        ]
+      },
+      {
+        "name": "UFC 314: Volkanovski vs Lopes",
+        "URL": "ufc-314",
+        "logo": "https://artjakes.com/wp-content/uploads/2025/03/314_SG_BA_ENG_1920x1080.jpg",
+        "time": "04/12/2025",
+        "streams": [
+          {
+            "name": "1",
+            "URL": "https://timstreams.upn.one/#n8y855"
+          }
+        ]
+      },
+      {
+        "name": "WWE: Wrestlemania 41",
+        "URL": "wrestlemania-41",
+        "logo": "https://s.yimg.com/ny/api/res/1.2/qTJKmzrZGv9dIY.LgiDhoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MDtjZj13ZWJw/https://media.zenfs.com/en/wrestle_zone_910/50329e12c5a89ba61a95c92cef7fec42",
+        "time": "04/19/2025 - 04/20/2025",
+        "streams": [
+          {
+            "name": "NIGHT 1",
+            "URL": "https://timstreams.upn.one/#isqorm"
+          },
+          {
+            "name": "NIGHT 2",
+            "URL": "https://embed.timstreams.site/embed/17c69aa9d5cad831d219a78f34077c96"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "24/7",
+    "events": [
+      {
+        "name": "24/7: Bluey",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/48/Bluey_%282018_TV_series%29_title_card.jpg",
+        "URL": "timstreams-247-bluey",
+        "genre": 3,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/bluey/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "24/7: Dragon Ball Z Kai",
+        "logo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/03/Dragon-Ball-Z-Kai-Featured-Image.jpg",
+        "URL": "timstreams-247-dbzkai",
+        "genre": 3,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/dbz/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "24/7: Tom & Jerry",
+        "logo": "https://m.media-amazon.com/images/S/pv-target-images/259fbc97ce839d091caea10e1d0c626a4821eb5f7086568e4b1b61a8f9036252._SX1080_FMjpg_.jpg",
+        "URL": "timstreams-247-tomandjerry",
+        "genre": 3,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/tomandjerry/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "ABC",
+        "logo": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png",
+        "URL": "abc",
+        "genre": 1,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/abc/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "BeIN Sports USA",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true",
+        "URL": "beinsportsusa",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/4/BEIN_SPORTS/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "BET",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true",
+        "URL": "bet",
+        "genre": 1,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/bet/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "CBS",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true",
+        "URL": "cbs",
+        "genre": 1,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/cbs/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "CBS Sports Network",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true",
+        "URL": "cbssn",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/cbssn/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "DIRTVision NOW",
+        "logo": "https://dirtvision.asset.viewlift.com/images/2025/01/27/1715300867054-64c720a301f24f34820b4c7143ff5bd2-1737996577673.webp",
+        "URL": "dvnow",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "URL": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/dvnow/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "ESPN",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true",
+        "URL": "espn",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/espn/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "ESPN2",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true",
+        "URL": "espn2",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/espn2/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "ESPN U",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true",
+        "URL": "espnu",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/espnu/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "ESPNews",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true",
+        "URL": "espnews",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/espnews/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "FloRacing 24/7",
+        "logo": "https://d2779tscntxxsw.cloudfront.net/5fd7eced045fd.png",
+        "URL": "floracing247",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Fox",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",
+        "URL": "fox",
+        "genre": 1,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/fox/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Fox Soccer Plus",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soccer-plus-us.png?raw=true",
+        "URL": "foxsoccerplus",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/foxsoccerplus/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Fox Sports 1",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true",
+        "URL": "fs1",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/fs1/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Fox Sports 2",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",
+        "URL": "fs2",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/fs2/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Fox Sports 501 (Cricket)",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-au.png?raw=true",
+        "URL": "fs501au",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/fox501au/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Fox Sports 502 (League)",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-au.png?raw=true",
+        "URL": "fs502au",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/fox502au/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Fox Sports 503",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-au.png?raw=true",
+        "URL": "fs503au",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/fox503au/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Fox Sports 504 (Footy)",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-au.png?raw=true",
+        "URL": "fs504au",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/fox504au/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Fox Sports 505",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-au.png?raw=true",
+        "URL": "fs505au",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/fox505au/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Fox Sports 506",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-au.png?raw=true",
+        "URL": "fs506au",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/fox506au/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Fox Sports 507",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-au.png?raw=true",
+        "URL": "fs507au",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/fox507au/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "LaLiga TV Uk",
+        "logo": "https://gxr.asset.viewlift.com/images/2025/03/13/LALIGA-Generic-Poster-1737808604364-1741837323570.jpg?impolicy=resize&w=1920&h=1080",
+        "URL": "laligatvuk",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/laligatvuk/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Madison Square Gardens",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png?raw=true",
+        "URL": "msg",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/msg/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "NBA TV",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",
+        "URL": "nbatv",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/NBA_TV/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "NBC Sports Bay Area",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-bay-area-us.png?raw=true",
+        "URL": "nbcsbay",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/nbcsbay/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "NBC Sports Boston",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-boston-us.png?raw=true",
+        "URL": "nbcsboston",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/nbcsbos/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "NBC Sports Philadelphia",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true",
+        "URL": "nbcsp",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/nbcsp/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "NickToons",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",
+        "URL": "nicktoons",
+        "genre": 1,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/NickToons/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Premier Sports 1 UK",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-1-uk.png?raw=true",
+        "URL": "premiersports1",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/8/premiersport1hd.stream/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Premier Sports 2 UK",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-2-uk.png?raw=true",
+        "URL": "premiersports2",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/8/premiersport2hd.stream/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Rally TV",
+        "logo": "https://play-lh.googleusercontent.com/yGC9brvzJBdkj8D2iyr1FmtE2FOM4myhn83rWR1DsJR4jXBwpQSHa7OkS9Q1_XVqQGl-",
+        "URL": "rallytv",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Sky Sports +",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-hz-uk.png?raw=true",
+        "URL": "skysportsplus",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/8/skysportsarenahd.stream/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Sky Sports Cricket",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-hz-uk.png?raw=true",
+        "URL": "skysportscricket",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/8/skysportscrickethd.stream/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Sky Sports F1",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-hz-uk.png?raw=true",
+        "URL": "skysportsf1",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://embed.timstreams.site/embed/99165b74ab01fa2936fdf43ac44e3448"
+          }
+        ]
+      },
+      {
+        "name": "Sky Sports Main Event",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true",
+        "URL": "skysportsmainevent",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://embed.timstreams.site/embed/bb6ffe46e2f25cc1c286e956dd5f7d1d"
+          }
+        ]
+      },
+      {
+        "name": "Sky Sports Mix",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-hz-uk.png?raw=true",
+        "URL": "skysportsmix",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/9/skysportsmixhd.stream/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Sky Sports Premier League",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png?raw=true",
+        "URL": "skysportsepl",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/9/skyportspremierleaguehd.stream/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Spectrum Sportsnet Lakers",
+        "logo": "https://cdn.nba.com/teams/uploads/sites/1610612747/2023/10/2324_lal_product_ssn_generic_article_1130x635.jpg",
+        "URL": "spectrumsportnetlakers",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/spectrumlakers/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "TBS",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true",
+        "URL": "tbs",
+        "genre": 1,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/2/TBS/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "The Cw",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-cw-us.png?raw=true",
+        "URL": "thecw",
+        "genre": 1,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/thecw/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "TNT",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",
+        "URL": "tnt",
+        "genre": 1,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/TNT/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "TNT Sports 1 UK",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true",
+        "URL": "tnt1gb",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/9/btsports1hd.stream/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "TNT Sports 2 UK",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true",
+        "URL": "tnt2gb",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/9/btsports2hd.stream/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "TNT Sports 3 UK",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true",
+        "URL": "tnt3gb",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/9/btsports3hd.stream/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "TNT Sports 4 UK",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true",
+        "URL": "tnt4gb",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/tntsports4/index.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "USA Network",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
+        "URL": "USAnet",
+        "genre": 1,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://looiirjreebeee7727u4u4urrrrrjrrrr.faggotsports.tv/1/usanetwork/playlist.m3u8"
+          }
+        ]
+      },
+      {
+        "name": "Willow Sports",
+        "logo": "https://img.willow.tv/apps/willowsports/willowsports-hrb.jpg",
+        "URL": "willowsports",
+        "genre": 2,
+        "streams": [
+          {
+            "name": "1",
+            "url": "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8"
+          }
+        ]
+      }
+    ]
+  }
+]
