@@ -84,6 +84,19 @@
                 ]
             },
       {
+                "name": "Lucas Oil Late Model Dirt Series at Hagerstown Speedway",
+                "URL": "flo-5",
+                "logo": "https://d2779tscntxxsw.cloudfront.net/677da647695a9.png",
+                "isevent": true,
+                "time": "04/26/2025 18:45",
+                "streams": [
+                    {
+                        "name": "Main",
+                        "URL": "https://embed.timstreams.site/embed/fc1902ae43ef2971205a13de17dc0998"
+                    }
+                ]
+            },
+      {
                 "name": "Talladega Short Track",
                 "URL": "dv-2",
                 "logo": "https://dirtvision.asset.viewlift.com/images/2025/04/15/4-26-25_LM-1744730872327.png?impolicy=resize&w=1920&h=1080",
